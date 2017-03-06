@@ -4,12 +4,15 @@
   "description": "An electron-vue project",
   "main": "./dist/main.js",
   "dependencies": {
+    "bulma": "^0.3.2",
     "vue": "^2.1.10",
     "vue-electron": "^1.0.6",
     "vue-resource": "^1.0.3",
     "vue-router": "^2.1.2",
     "vuex": "^2.1.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "vue-bulma-notification": "^1.1.1"
+  },
   "author": "luventa <silentmic@qq.com>"
 }
